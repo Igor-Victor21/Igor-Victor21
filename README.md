@@ -1,10 +1,8 @@
 ## Olá! Eu sou Igor Victor
 Acompanhe minha jornada como desenvolvedor também pelo LinkedIn.
-https://www.linkedin.com/in/igor-victor-693303336/
 
-- 🔭 Atualmente Trabalhando como Freelancer
-- 🤔 Buscando conhecimendo em Desenvolvimento Mobile
-- 📧 Igor.victorcontato@gmail.com
+- 👨‍💻 Atualmente Trabalhando como Freelancer
+- 📔 Buscando conhecimendo em Desenvolvimento Mobile
 ##
 
 <picture>
