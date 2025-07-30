@@ -7,7 +7,7 @@ Acompanhe minha jornada como desenvolvedor.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Igor-Victor21&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=Igor-Victor21&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -22,7 +22,7 @@ Acompanhe minha jornada como desenvolvedor.
       align="center" 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Victor21&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Victor21&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 ##
