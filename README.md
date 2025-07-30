@@ -1,5 +1,5 @@
-## Olá! Eu sou Igor Victor
-Acompanhe minha jornada como desenvolvedor também pelo LinkedIn.
+## Olá! Eu sou Igor Victor Bem-Vindo
+Acompanhe minha jornada como desenvolvedor.
 
 - 👨‍💻 Atualmente Trabalhando como Freelancer
 - 📔 Buscando conhecimendo em Desenvolvimento Mobile
