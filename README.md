@@ -17,7 +17,15 @@ https://www.linkedin.com/in/igor-victor-693303336/
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  
 </picture>
+
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="170" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Victor21&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ##
 
@@ -109,8 +117,6 @@ https://www.linkedin.com/in/igor-victor-693303336/
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
-##
 <br/>
 
 <div> 
