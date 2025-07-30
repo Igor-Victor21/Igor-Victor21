@@ -1,4 +1,4 @@
-## Olá! Eu sou Igor Victor Bem-Vindo
+## Olá Bem-Vindo! Eu sou Igor Victor 
 Acompanhe minha jornada como desenvolvedor.
 
 - 👨‍💻 Atualmente Trabalhando como Freelancer
