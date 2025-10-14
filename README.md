@@ -5,7 +5,7 @@ Acompanhe minha jornada como desenvolvedor.
 - 📔 Buscando conhecimendo em Desenvolvimento Mobile
 ##
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Igor-Victor21&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -16,7 +16,7 @@ Acompanhe minha jornada como desenvolvedor.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Igor-Victor21&show_icons=true" />
   
-</picture>
+</picture> -->
 
 <img 
       align="center" 
