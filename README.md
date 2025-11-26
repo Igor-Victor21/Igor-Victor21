@@ -18,12 +18,12 @@ Acompanhe minha jornada como desenvolvedor.
   
 </picture> -->
 
-<img 
+<!-- <img 
       align="center" 
       alt="GitHub Stats" 
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Victor21&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> -->
 
 ##
 
