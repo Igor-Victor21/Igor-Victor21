@@ -1,8 +1,11 @@
-## Olá Bem-Vindo! Eu sou Igor Victor 
-Acompanhe minha jornada como desenvolvedor.
+## Olá! Seja bem-vindo ao meu GitHub 👋
 
-- 👨‍💻 Atualmente Trabalhando como Freelancer
-- 📔 Buscando conhecimendo em Desenvolvimento Mobile
+Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, APIs REST, dashboards e soluções para empresas.
+
+- 💻 Atualmente desenvolvendo um projeto de grande porte utilizando **Java, Spring Boot e Flutter**.
+- 🚀 Sempre buscando evoluir em arquitetura de software, segurança e boas práticas de desenvolvimento.
+- 🤝 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/igor-victor21/) para acompanhar minha jornada, meus projetos e minha evolução como desenvolvedor.
+  
 ##
 
 <!-- <picture>
