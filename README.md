@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo ao meu GitHub 👋
+## Olá! Seja bem-vindo ao meu GitHub
 
 Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, APIs REST, dashboards e soluções para empresas.
 
