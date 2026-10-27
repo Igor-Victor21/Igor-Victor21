@@ -127,3 +127,11 @@ Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de ex
   <a href="https://www.linkedin.com/in/igor-victor21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/github-snake.svg">
+</picture>
+
