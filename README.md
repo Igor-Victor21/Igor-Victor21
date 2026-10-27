@@ -128,10 +128,3 @@ Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de ex
   
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/github-snake.svg">
-</picture>
-
