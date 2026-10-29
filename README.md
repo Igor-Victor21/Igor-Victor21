@@ -56,4 +56,10 @@ Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de ex
   <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
 
----
+## <h2 align="center">GitHub Status</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Igor-Victor21&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
