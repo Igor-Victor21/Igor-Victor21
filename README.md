@@ -8,7 +8,7 @@
 
 ##  <h2 align="center"> Sobre Mim </h2>
 
-<img align="right" src="./assets/RigthPhotoGithub.jpg" width="280" alt="Cat"/>
+<img align="right" src="./assets/RigthPhotoGithub.png" width="280" alt="Cat"/>
   
 Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, APIs REST, dashboards e soluções para empresas.
 
