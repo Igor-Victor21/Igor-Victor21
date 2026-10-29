@@ -63,3 +63,28 @@ Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de ex
 <img src="https://streak-stats.demolab.com?user=Igor-Victor21&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
+
+---
+
+<h2 align="center">Atividades no Github</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Animação Pac-Man do gráfico de contribuições do GitHub"
+      src="https://raw.githubusercontent.com/Igor-Victor21/Igor-Victor21/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
