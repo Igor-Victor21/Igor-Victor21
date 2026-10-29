@@ -1,5 +1,15 @@
-## Olá! Seja bem-vindo ao meu GitHub
+<p align="center">
+  <img src="./assets/BannerGithub.jpg" alt="Banner" width="100%">
+</p>
 
+<h1 align="center">Olá! Seja bem-vindo ao meu GitHub</h1>
+
+<h3 align="center">Desenvolvedor Full-Stack</h3>
+
+##  <h2 align="center"> Sobre Mim </h2>
+
+<img align="right" src="./assets/RigthPhotoGithub.jpg" width="280" alt="Cat"/>
+  
 Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, APIs REST, dashboards e soluções para empresas.
 
 - 💻 Atualmente desenvolvendo um projeto de grande porte utilizando **Java, Spring Boot e Flutter**.
