@@ -13,13 +13,13 @@
   />
 </p>
 
-<p align="center">Desenvolvo soluções web e mobile que transformam ideias em produtos reais.</p>
+<p align="center">Transformando ideias em produtos reais.</p>
 
 ## <h2 align="center"> Sobre Mim </h2>
 
 <img align="right" src="./assets/RigthPhotoGithub.png" width="280" alt="Cat"/>
   
-Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, e-commerces, dashboards, automações e integrações com APIs REST.
+Sou **Igor Victor**, Desenvolvedor Full Stack, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, e-commerces, dashboards, automações e integrações com APIs REST.
 
 - 💻 Tenho experiência no desenvolvimento de aplicações completas, incluindo e-commerces com painéis administrativos e soluções para empresas.
 - 🛠️ Trabalho com tecnologias como **Next.js, React, Node.js, JavaScript, TypeScript, SQL Server, Firebase e Docker**, além de desenvolver APIs REST, autenticação JWT e integrações entre sistemas.
@@ -47,7 +47,7 @@ Sou **Igor Victor**, Desenvolvedor Full Stack Júnior, com mais de **1 ano de ex
 ## <h2 align="center">Stack de Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,html,css,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres"/>
   <br/>
