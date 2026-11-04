@@ -21,10 +21,10 @@
   
 Sou **Igor Victor**, Desenvolvedor Full Stack, com mais de **1 ano de experiência como freelancer**, desenvolvendo aplicações web, e-commerces, dashboards, automações e integrações com APIs REST.
 
-- 💻 Tenho experiência no desenvolvimento de aplicações completas, incluindo e-commerces com painéis administrativos e soluções para empresas.
-- 🛠️ Trabalho com tecnologias como **Next.js, React, Node.js, JavaScript, TypeScript, SQL Server, Firebase e Docker**, além de desenvolver APIs REST, autenticação JWT e integrações entre sistemas.
-- 🚀 Busco aprimorar meus conhecimentos em arquitetura de software, segurança, performance, infraestrutura e boas práticas de desenvolvimento.
-- 🎯 Meu objetivo é construir soluções escaláveis, seguras e eficientes, transformando ideias em aplicações que gerem valor para usuários e empresas.
+- Tenho experiência no desenvolvimento de aplicações completas, incluindo e-commerces com painéis administrativos e soluções para empresas.
+- Trabalho com tecnologias como **Next.js, React, Node.js, JavaScript, TypeScript, SQL Server, Firebase e Docker**, além de desenvolver APIs REST, autenticação JWT e integrações entre sistemas.
+- Busco aprimorar meus conhecimentos em arquitetura de software, segurança, performance, infraestrutura e boas práticas de desenvolvimento.
+- Meu objetivo é construir soluções escaláveis, seguras e eficientes, transformando ideias em aplicações que gerem valor para usuários e empresas.
 
 <br clear="right"/>
 
